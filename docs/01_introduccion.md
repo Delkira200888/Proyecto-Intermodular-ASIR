@@ -8,7 +8,7 @@
 
 La ferretería objeto de este proyecto es un pequeño negocio familiar gestionado actualmente por su propietario, que es la única persona que trabaja en el establecimiento. Tradicionalmente, la actividad del negocio se ha desarrollado mediante la atención directa a los clientes en el establecimiento físico.
 
-Actualmente, la ferretería no dispone de ordenador, página web ni presencia en redes sociales. Tanto las ventas como la gestión de los productos son realizadas directamente por el propietario. Esta situación refleja un modelo de negocio basado principalmente en la venta presencial y en la gestión manual de la actividad.
+Actualmente, la ferretería no dispone de ningún ordenador, página web ni presencia en redes sociales. Tanto las ventas como la gestión de los productos son realizadas directamente por el propietario. Esta situación refleja un modelo de negocio basado principalmente en la venta presencial y en la gestión manual de la actividad.
 
 ## 1.3. Problemática o necesidad
 
