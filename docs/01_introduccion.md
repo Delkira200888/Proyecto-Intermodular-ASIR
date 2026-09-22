@@ -34,7 +34,7 @@ Diseñar una propuesta de digitalización para incorporar una ferretería de bar
 
 5. Diseñar un sistema de gestión del inventario que permita mantener actualizada la información sobre los productos y relacionarla con los pedidos realizados a través de la plataforma online.
 
- ## 1.5. Interesados
+## 1.5. Interesados
 
 | Interesado | Relación con el proyecto | Necesidad principal |
 |---|---|---|
