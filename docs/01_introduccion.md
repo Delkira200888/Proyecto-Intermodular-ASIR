@@ -2,7 +2,7 @@
 
 ## 1.1. Título del reto
 
-**Digitalización de una ferretería de barrio para su incorporación al entorno online**
+**Proyecto de digitalización y modernización de una ferretería de barrio.**
 
 ## 1.2. Contexto
 
